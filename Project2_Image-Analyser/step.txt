@@ -1,7 +1,12 @@
-anaconda code. in directory
-crate . env
-add api in env
-ADD SPECIFIC LIBRARY IN REQUIREMENT 
-Create environment using "conda create -p venv python==3.10"
- activate envirinment using "conda activate venv/"pi
- Pip install -r Requirements.txt file
+**Steps to Run this perticular code on your pc**
+
+Make sure you installed anaconda in tour pc and add it to environmental variables 
+
+Lets began
+
+1.open the directory andcode prompt by "cd" command and type "code ." to open VS Code
+2.crate . env and store your api key in that<i>(Make sure you dont share it with any one)</i>
+3.ADD SPECIFIC LIBRARY IN REQUIREMENT which are needed
+4.Create environment using "conda create -p venv python==3.10"
+5.Activate envirinment using "conda activate venv/"pi
+6.Now just run app.py in streamlit using "streamlit run app.py" in new terminal
