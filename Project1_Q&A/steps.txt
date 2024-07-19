@@ -1,7 +1,6 @@
-<hx> Steps to Run this perticular code on your pc </hx> 
- <font size="10"> Make sure you installed anaconda in tour pc and add it to environmental variables <font>
+** Steps to Run this perticular code on your pc **
+  Make sure you installed anaconda in tour pc and add it to environmental variables 
 
-<font size="5">
 Lets began
 
 open the directory andcode prompt by "cd" command and type "code ." to open VS Code
@@ -16,4 +15,3 @@ Activate envirinment using "conda activate venv/"pi
 
 Now just run app.py in streamlit using "streamlit run app.py" in new terminal
 
-</font>
