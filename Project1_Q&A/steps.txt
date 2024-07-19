@@ -1,1 +1,6 @@
-
+anaconda code. in directory
+crate . env
+add api in env
+ADD SPECIFIC LIBRARY IN REQUIREMENT 
+Create environment using "conda create -p venv python==3.10"
+ activate envirinment using "conda activate venv/"pi
