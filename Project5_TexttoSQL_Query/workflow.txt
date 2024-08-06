@@ -1,0 +1,5 @@
+Web App => Question => Prompt => LLM Model (gemini-pro) => SQL Query => Response
+Response:
+- SQL Code Generated
+- Sample Output Example
+- Explanation of the code
